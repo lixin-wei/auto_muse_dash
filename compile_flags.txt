@@ -1,0 +1,4 @@
+--std=c++17
+-I/Library/Python/3.9/include
+-I/Users/lixin/Library/Python/3.9/lib/python/site-packages/pybind11/include
+-I/System/Volumes/Data/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/Headers/

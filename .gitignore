@@ -1,0 +1,5 @@
+*.dSYM
+*.so
+.vscode
+a.out
+macos_native_tools
